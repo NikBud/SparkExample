@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Sparkkk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Sparkkk_jar</output-path>
+    <root id="archive" name="Sparkkk.jar">
+      <element id="module-output" name="Sparkkk" />
+    </root>
+  </artifact>
+</component>
